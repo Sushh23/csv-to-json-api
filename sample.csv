@@ -1,0 +1,21 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,phone,email
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,9876543210,rohit@example.com
+Priya,Sharma,28,B-201 Green Valley,MG Road,Mumbai,Maharashtra,female,9876543211,priya@example.com
+Amit,Kumar,42,C-102 Sunrise Apartments,Brigade Road,Bangalore,Karnataka,male,9876543212,amit@example.com
+Sneha,Patel,19,D-305 Ocean View,Carter Road,Mumbai,Maharashtra,female,9876543213,sneha@example.com
+Rajesh,Singh,55,E-45 Park Street,Park Street,Kolkata,West Bengal,male,9876543214,rajesh@example.com
+Anita,Verma,31,F-78 Lake View,Banjara Hills,Hyderabad,Telangana,female,9876543215,anita@example.com
+Vikram,Reddy,65,G-12 River Side,Jubilee Hills,Hyderabad,Telangana,male,9876543216,vikram@example.com
+Kavita,Joshi,23,H-56 Mountain View,Koramangala,Bangalore,Karnataka,female,9876543217,kavita@example.com
+Suresh,Nair,48,I-89 Sea Breeze,Marine Drive,Kochi,Kerala,male,9876543218,suresh@example.com
+Deepa,Menon,38,J-34 Garden Estate,Anna Nagar,Chennai,Tamil Nadu,female,9876543219,deepa@example.com
+Arun,Gupta,17,K-67 Hill View,Civil Lines,Delhi,Delhi,male,9876543220,arun@example.com
+Meera,Das,52,L-90 Palm Grove,Salt Lake,Kolkata,West Bengal,female,9876543221,meera@example.com
+Karthik,Iyer,29,M-23 Valley View,Indiranagar,Bangalore,Karnataka,male,9876543222,karthik@example.com
+Pooja,Desai,44,N-56 Sunset Point,Ellisbridge,Ahmedabad,Gujarat,female,9876543223,pooja@example.com
+Ramesh,Yadav,61,O-78 Lakeside,Gomti Nagar,Lucknow,Uttar Pradesh,male,9876543224,ramesh@example.com
+Nisha,Roy,26,P-12 Skyline,Sector 17,Chandigarh,Chandigarh,female,9876543225,nisha@example.com
+Sanjay,Kapoor,39,Q-45 Green Park,Safdarjung,Delhi,Delhi,male,9876543226,sanjay@example.com
+Ritu,Malhotra,21,R-67 Blue Ridge,Model Town,Ludhiana,Punjab,female,9876543227,ritu@example.com
+Manoj,Pillai,58,S-89 White House,Palarivattom,Kochi,Kerala,male,9876543228,manoj@example.com
+Swati,Chopra,33,T-34 Rose Garden,Vasant Vihar,Delhi,Delhi,female,9876543229,swati@example.com

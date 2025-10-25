@@ -1,0 +1,26 @@
+{
+  "name": "csv-to-json-api",
+  "version": "1.0.0",
+  "description": "CSV to JSON converter API with PostgreSQL integration",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "postgres",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
